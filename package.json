@@ -1,11 +1,11 @@
 {
-  "name": "fastsearch",
+  "name": "fastsearch.js",
   "version": "1.0.0",
   "description": "Small package providing a few ways to perform array or string searches.",
   "main": "lib/index.js",
   "types": "lib",
   "scripts": {
-    "build": "rm ./lib/* && tsc"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,8 @@
     "url": "https://github.com/brianangulo/fastsearch/issues"
   },
   "homepage": "https://github.com/brianangulo/fastsearch#readme",
-  "type": "module"
+  "type": "module",
+  "directories": {
+    "lib": "lib"
+  }
 }
