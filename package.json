@@ -1,0 +1,19 @@
+{
+  "name": "fastsearch",
+  "version": "1.0.0",
+  "description": "Small package providing a few ways to perform array or string searches.",
+  "main": "index.js",
+  "scripts": {
+    "test": "n/a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianangulo/fastsearch.git"
+  },
+  "author": "Brian Angulo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianangulo/fastsearch/issues"
+  },
+  "homepage": "https://github.com/brianangulo/fastsearch#readme"
+}
