@@ -2,9 +2,10 @@
   "name": "fastsearch",
   "version": "1.0.0",
   "description": "Small package providing a few ways to perform array or string searches.",
-  "main": "index.js",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
   "scripts": {
-    "test": "n/a"
+    "build": "rm ./lib/* && tsc"
   },
   "repository": {
     "type": "git",

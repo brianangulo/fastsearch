@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+       "allowJs": true,
+       "target": "ES6",
+       "alwaysStrict": true,
+       "strict": true,
+       "declaration": true,
+       "outDir": "./lib"
+    }
+}
