@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/brianangulo/fastsearch/issues"
   },
-  "homepage": "https://github.com/brianangulo/fastsearch#readme"
+  "homepage": "https://github.com/brianangulo/fastsearch#readme",
+  "type": "module"
 }
